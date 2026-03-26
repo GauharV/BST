@@ -1,1 +1,1 @@
-I asked Claude to help me for an error
+I asked Claude to help me for an syntax error. 
